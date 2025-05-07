@@ -1,3 +1,6 @@
 *{ 
   margin: 0; => Remove margens padrões de todos os elementos 
   padding: 0; => espaçamentos padrões de todos os elementos
+  box-sizing: border-box; } => Define o que faz com que as bordas e preenchimentos sejam incluídos nas dimensões de largura e altura dos elemento, facilitando o controle das proporções
+
+body{
