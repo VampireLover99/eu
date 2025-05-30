@@ -78,4 +78,14 @@
         display: flex;
         justify-content: flex-end;
         width: 25%;
+        padding: 50px;
+        text-align: center;
+        width: 50%
+        font: 30px;
+       }
+       .socials{
+        display: flex;
+        justify-content: flex-end;
+        width: 25%
+        padding-right: 30px;
        }
