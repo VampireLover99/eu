@@ -81,13 +81,13 @@
         padding: 50px;
         text-align: center;
         width: 50%
-        font: 30px;
+        font; 30px;
        }
        .socials{
         display: flex;
         justify-content: flex-end;
-        width: 25%
-        padding-right: 30px;
+        width: 25
+        padding-right; 30px;
        }
        .banner1{
         display: flex;
@@ -158,5 +158,5 @@
       }
       .link{
         color: #ffffff
-        text-decoration: none;
+        text-decoration; none:
       }
